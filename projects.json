@@ -1,0 +1,182 @@
+[
+  {
+    "title": "000주택",
+    "category": "주거시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "단독주택",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "위 주택은 경기도 남양주시에 지어진 주택입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.jpg",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000주택",
+    "category": "주거시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "단독주택",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "위 주택은 경기도 남양주시에 지어진 주택입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.jpg",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000주택",
+    "category": "주거시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "단독주택",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "위 주택은 경기도 남양주시에 지어진 주택입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.png",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000주택",
+    "category": "주거시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "단독주택",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "위 주택은 경기도 남양주시에 지어진 주택입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.png",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000상가",
+    "category": "상업시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "제2종 근린생활시설",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "위 주택은 경기도 남양주시에 지어진 상가입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.png",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000상가",
+    "category": "상업시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "제2종 근린생활시설",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "위 주택은 경기도 남양주시에 지어진 상가입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.png",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000상가",
+    "category": "상업시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "제2종 근린생활시설",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "위 주택은 경기도 남양주시에 지어진 상가입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.png",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000상가",
+    "category": "상업시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "제2종 근린생활시설",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "위 주택은 경기도 남양주시에 지어진 상가입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.png",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000도서관",
+    "category": "공공시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "공공시설",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "위 주택은 경기도 남양주시에 지어진 도서관입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.png",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000도서관",
+    "category": "공공시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "공공시설",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "위 주택은 경기도 남양주시에 지어진 도서관입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.png",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000도서관",
+    "category": "공공시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "공공시설",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "설명: 위 주택은 경기도 남양주시에 지어진 도서관입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.png",
+      "project_images\\오름.jpg"
+    ]
+  },
+  {
+    "title": "000도서관",
+    "category": "공공시설",
+    "location": "경기도 남양주시 OOO",
+    "scale": "300㎡",
+    "usage": "공공시설",
+    "coverage": "60%",
+    "floor_ratio": "200%",
+    "desc": "설명: 위 주택은 경기도 남양주시에 지어진 도서관입니다.",
+    "image": "project_images\\s1.jpg",
+    "images": [
+      "project_images\\로고파일.png",
+      "project_images\\오름.jpg"
+    ]
+  }
+]
