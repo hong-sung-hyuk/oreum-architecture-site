@@ -8,10 +8,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "위 주택은 경기도 남양주시에 지어진 주택입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.jpg",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.jpg",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -23,10 +23,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "위 주택은 경기도 남양주시에 지어진 주택입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.jpg",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.jpg",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -38,10 +38,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "위 주택은 경기도 남양주시에 지어진 주택입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.png",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.png",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -53,10 +53,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "위 주택은 경기도 남양주시에 지어진 주택입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.png",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.png",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -68,10 +68,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "위 주택은 경기도 남양주시에 지어진 상가입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.png",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.png",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -83,10 +83,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "위 주택은 경기도 남양주시에 지어진 상가입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.png",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.png",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -98,10 +98,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "위 주택은 경기도 남양주시에 지어진 상가입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.png",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.png",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -113,10 +113,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "위 주택은 경기도 남양주시에 지어진 상가입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.png",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.png",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -128,10 +128,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "위 주택은 경기도 남양주시에 지어진 도서관입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.png",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.png",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -143,10 +143,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "위 주택은 경기도 남양주시에 지어진 도서관입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.png",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.png",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -158,10 +158,10 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "설명: 위 주택은 경기도 남양주시에 지어진 도서관입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.png",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.png",
+      "project_images/오름.jpg"
     ]
   },
   {
@@ -173,10 +173,11 @@
     "coverage": "60%",
     "floor_ratio": "200%",
     "desc": "설명: 위 주택은 경기도 남양주시에 지어진 도서관입니다.",
-    "image": "project_images\\s1.jpg",
+    "image": "project_images/s1.jpg",
     "images": [
-      "project_images\\로고파일.png",
-      "project_images\\오름.jpg"
+      "project_images/로고파일.png",
+      "project_images/오름.jpg"
     ]
   }
+
 ]
